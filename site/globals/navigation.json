@@ -5,10 +5,18 @@
             "url": "/"
         },
         {
-            "label": "About",
+            "label": "About Us",
             "url": "/about/"
         },
 
+        {
+            "label": "Registry",
+            "url": "/registry/"
+        },
+        {
+            "label": "Event",
+            "url": "/event/"
+        },
         {
             "label": "Contact",
             "url": "/contact/"
