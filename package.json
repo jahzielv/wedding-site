@@ -1,7 +1,7 @@
 {
-  "name": "skeleventy",
+  "name": "jahzandbecca.wedding",
   "version": "2.0.0",
-  "description": "Skeleventy - A skeleton boilerplate built with Eleventy",
+  "description": "Wedding website for Jahziel and Becca",
   "scripts": {
     "dev": "ELEVENTY_ENV=development npx @11ty/eleventy --config=eleventy.config.js --serve & webpack --watch --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "production": "NODE_ENV=production webpack --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js && npx @11ty/eleventy --config=eleventy.config.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/josephdyer/skeleventy.git"
   },
-  "author": "Joseph Dyer",
+  "author": "Jahziel Villasana",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
